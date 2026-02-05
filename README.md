@@ -32,7 +32,7 @@ An automated traffic violation detection system powered by **Flask** and **YOLOv
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/faizshah886/Traffic-Violation-Detection-System
 cd traffic
 ```
 
