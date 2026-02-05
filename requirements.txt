@@ -1,0 +1,25 @@
+# Flask and web dependencies
+Flask>=2.3.0
+Werkzeug>=2.3.0
+
+# Computer Vision and ML
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# OCR (EasyOCR can be problematic, making it optional)
+# easyocr>=1.7.0
+pytesseract>=0.3.10
+
+# PDF Generation
+reportlab>=4.0.0
+qrcode[pil]>=7.4.0
+Pillow>=10.0.0
+
+# Database
+# SQLite is built-in with Python
+
+# Utilities
+numpy>=1.24.0
+python-dateutil>=2.8.0
